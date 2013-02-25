@@ -46,11 +46,11 @@ http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/
 http://www.ibm.com/developerworks/ru/library/au-unix-getopt/
 
 Интернационализация и gnu gettext:
-http://www.gnu.org/software/gettext/
-http://ru.wikipedia.org/wiki/Gettext
-http://symmetrica.net/uploads/gtk/lesson2.htm
+* http://www.gnu.org/software/gettext/
+* http://ru.wikipedia.org/wiki/Gettext
+* http://symmetrica.net/uploads/gtk/lesson2.htm
 
-http://c-faq.com/index.html
+Часто задаваемые вопросы по C: http://c-faq.com/index.html
 
 Правила игры
 ============
