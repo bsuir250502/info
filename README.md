@@ -35,8 +35,9 @@ http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/
 
 ## Компиляция и запуск
 
-сборка: gcc -Wall -std=c99 main.c -o main
-запуск: ./main
+сборка: `gcc -Wall -std=c99 main.c -o main`
+
+запуск: `./main`
 
 
 ## Полезная информация
