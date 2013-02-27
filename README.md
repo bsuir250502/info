@@ -141,8 +141,9 @@ CMake/SCons/premake/... обязательно наличие файла BUILD �
 Безопасность и отказоустойчивость = 100
 ---------------------------------
 
-* https://security.web.cern.ch/security/recommendations/en/codetools/c.shtml
-* https://www.securecoding.cert.org/confluence/display/seccode/CERT+C+Secure+Coding+Standard
+Обязательно: https://security.web.cern.ch/security/recommendations/en/codetools/c.shtml
+
+Желательно: https://www.securecoding.cert.org/confluence/display/seccode/CERT+C+Secure+Coding+Standard
 
 
 Простота в использовании и поддержке = 100
