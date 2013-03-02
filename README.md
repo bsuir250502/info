@@ -94,7 +94,7 @@ http://www.ibm.com/developerworks/ru/library/au-unix-getopt/
 
 Запускается так:
 
-    indent -kr main.c
+    indent -kr -nut main.c
 
 Наличие документация по использованию = 100
 -------------------------------------
