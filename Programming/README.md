@@ -3,6 +3,11 @@
 
 https://docs.google.com/spreadsheet/ccc?key=0Au1Jbj1Baw_JdEdvTWVxNXQ3Z29MaDBGM2pJdGhqaUE&usp=sharing
 
+Баллы
+=====
+
+https://docs.google.com/spreadsheet/ccc?key=0Au1Jbj1Baw_JdFhIR0pqbTZ5S1d4Q1o0RzRqYmgwSkE&usp=sharing
+
 Дедлайны
 ========
 
