@@ -100,6 +100,11 @@ http://en.wikipedia.org/wiki/Indent_style#K.26R_style
 * linux: устанавливается из репозиториев
 * windows: http://gnuwin32.sourceforge.net/packages/indent.htm
 
+ВНИМАНИЕ!!! Если файл использует окончания строк в стиле windows
+("\r\n", CR LF), то после этой команды файл превратится в месиво,
+т.к. indent ничего о виндовых переводах строк не слышал и "\r"
+воспринимается просто как странный символ и не трогается.
+
 Запускается так:
 
     indent -kr -nut main.c
