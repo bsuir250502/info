@@ -1,6 +1,9 @@
 Git
 ===
 
+Основы Git:
+http://git-scm.com/book/ru/Основы-Git
+
 Очень хорошее введение в git: 
 http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/ch01.html
 
