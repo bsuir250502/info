@@ -4,6 +4,13 @@
 Записываться самим:
 https://docs.google.com/spreadsheet/ccc?key=0Au1Jbj1Baw_JdEdvTWVxNXQ3Z29MaDBGM2pJdGhqaUE&usp=sharing
 
+Проверка/защита
+===============
+
+Стать в очередь: https://docs.google.com/forms/d/1y7LsWeupF7lcmIrtt14yGmf-Kvv8lux3Q4My15hCZS4/viewform
+
+Очередь: https://docs.google.com/spreadsheet/ccc?key=0Au1Jbj1Baw_JdHRnTHhuRWpxUW5BajVtTDlUcEtYc0E&usp=sharing
+
 Баллы
 =====
 
