@@ -42,7 +42,6 @@ http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/
 
 запуск: `./main`
 
-
 ## Полезная информация
 
 Обработка опций командной строки через getopt:
@@ -55,6 +54,11 @@ http://www.ibm.com/developerworks/ru/library/au-unix-getopt/
 * http://symmetrica.net/uploads/gtk/lesson2.htm
 
 Часто задаваемые вопросы по C: http://c-faq.com/index.html
+
+Make
+====
+
+http://www.opennet.ru/docs/RUS/make_compile/make.html
 
 Правила игры
 ============
