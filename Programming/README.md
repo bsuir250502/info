@@ -13,6 +13,8 @@ https://docs.google.com/spreadsheet/ccc?key=0Au1Jbj1Baw_JdEdvTWVxNXQ3Z29MaDBGM2p
 
 Отметиться о просмотре кода однокурсников: https://docs.google.com/forms/d/1EB80Rvs7Ngqsrazsc0qUd4ECdPL7NsmCDY0GxfQTIrU/viewform
 
+Список отметившихся о просмотре кода: https://docs.google.com/spreadsheet/ccc?key=0Au1Jbj1Baw_JdHJjTjJoMjBnSGNrM2RONE5EUUlMNUE&usp=sharing
+
 Баллы
 =====
 
